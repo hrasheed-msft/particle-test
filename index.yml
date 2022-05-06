@@ -1,0 +1,39 @@
+### YamlMime:Module
+uid: learn.code-scanning-with-github-codeql
+metadata:
+  moduleType: standard
+  title: "Evaluate a regulatory compliance strategy" # user input: module title for browser tab and search results
+  description: "Evaluate a regulatory compliance strategy" # user input: a description for site search and SEO
+  ms.date: 8/19/2021
+  author: {{githubUsername}}
+  ms.author: {{msUser}}
+  ms.topic: interactive-tutorial # do we need ms.topic?
+title: code-scanning-with-github-codeql
+summary: "TODO" # user input: introductory summary (https://review.docs.microsoft.com/help/learn/id-guidance-introductory-summaries?branch=master)
+abstract: | # user input: learning objectives (https://review.docs.microsoft.com/help/learn/id-guidance-learning-objectives?branch=master)
+  By the end of this module, you'll be able to:
+- Interpret compliance requirements and their technical capabilities
+- Evaluate infrastructure compliance by using Microsoft Defender for Cloud
+- Interpret compliance scores and recommend actions to resolve issues or improve security
+- Design and validate implementation of Azure Policy
+- Design for data residency Requirements
+- Translate privacy requirements into requirements for security
+    solutions
+prerequisites: | # user input: prerequisites (https://review.docs.microsoft.com/help/learn/id-guidance-prerequisites?branch=master)
+  - # prerequisite 1
+  - # prerequisite 2
+  - # prerequisite 3
+iconUrl: /learn/achievements/generic-badge.svg
+levels: # user input: add levels from level taxonomy (https://review.docs.microsoft.com/help/contribute/metadata-taxonomies?branch=master#level)
+  - # level
+roles: # user input: add roles from role taxonomy (https://review.docs.microsoft.com/help/contribute/metadata-taxonomies?branch=master#role)
+  - # role 1
+  - # role 2
+products:
+  {{products}}
+units:
+- Interpret compliance requirements and their technical capabilities
+- Evaluate infrastructure compliance by using Microsoft Defender for Cloud
+- Interpret compliance scores and recommend actions to resolve issues or improve security
+badge:
+  uid: learn.code-scanning-with-github-codeql.badge
